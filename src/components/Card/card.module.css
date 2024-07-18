@@ -15,6 +15,10 @@
     object-fit: cover;
 }
 
+.detail{
+    text-transform: capitalize;
+}
+
 
 .textContainer{
     flex: 1;
